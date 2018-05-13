@@ -13,7 +13,7 @@ Modes Available:
 
 Approx. Accuracy : 84.8%
 
-Predicts whether a customer is gonna leave the bank or not in the future based on multiple factors in data set. 
+Predicts whether a customer is going to leave the bank or not in the future based on multiple factors in data set. 
 
 Any dataset can be used for this model.
 If no. of parameters or dependencies changes, Xtrain and Y_train need to be altered accordingly
